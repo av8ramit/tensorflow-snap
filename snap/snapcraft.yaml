@@ -1,5 +1,5 @@
 name: tensorflow
-version: 'v1.3.1'
+version: 'v1.4.0'
 summary: An open-source software library for Machine Intelligence
 description: |
   TensorFlow™ is an open source software library or numerical computation
